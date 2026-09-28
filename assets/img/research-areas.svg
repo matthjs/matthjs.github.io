@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 420" width="560" height="420" role="img" aria-labelledby="research-venn-title research-venn-desc">
+  <title id="research-venn-title">Research areas</title>
+  <desc id="research-venn-desc">Four overlapping circles for Continual Learning, Uncertainty Quantification, Mechanistic Interpretability, and Reinforcement Learning, centered on Machine Learning.</desc>
+  <g stroke="#333333" stroke-width="1.5">
+    <circle cx="212" cy="160" r="132" fill="#a8bfd4" fill-opacity="0.24"/>
+    <circle cx="348" cy="160" r="132" fill="#b9c9bb" fill-opacity="0.24"/>
+    <circle cx="212" cy="260" r="132" fill="#c2bad2" fill-opacity="0.24"/>
+    <circle cx="348" cy="260" r="132" fill="#d6c9a5" fill-opacity="0.24"/>
+  </g>
+  <g fill="#222222" font-family="Georgia, 'Times New Roman', serif" text-anchor="middle">
+    <g font-size="19">
+      <text x="168" y="111"><tspan x="168">Continual</tspan><tspan x="168" dy="24">Learning</tspan></text>
+      <text x="392" y="111"><tspan x="392">Uncertainty</tspan><tspan x="392" dy="24">Quantification</tspan></text>
+      <text x="168" y="322"><tspan x="168">Mechanistic</tspan><tspan x="168" dy="24">Interpretability</tspan></text>
+      <text x="392" y="322"><tspan x="392">Reinforcement</tspan><tspan x="392" dy="24">Learning</tspan></text>
+    </g>
+    <text x="280" y="211" font-size="19" font-weight="700">Machine Learning</text>
+  </g>
+</svg>
