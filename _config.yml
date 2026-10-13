@@ -8,7 +8,7 @@ middle_name:
 last_name: van der Lende
 contact_note: >
   You can reach me by email.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: >- # Fold lines and strip the trailing newline for structured metadata.
   Matthijs van der Lende — machine learning research in continual learning, mechanistic interpretability, reinforcement learning, and probabilistic methods.
 footer_text: >
 keywords: machine learning, continual learning, mechanistic interpretability, reinforcement learning # add your own keywords or leave empty
@@ -107,9 +107,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: /assets/DSCF6671.jpeg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

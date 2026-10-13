@@ -95,7 +95,7 @@ Previously, I was a Research Fellow at [Apart Research](https://apartresearch.co
       </tr>
       <tr>
         <th scope="row" style="width: 20%">Jan, 2025</th>
-        <td>Published first-author work on Gaussian-process function approximation for reinforcement learning at <strong>NLDL 2025</strong>. </td>
+        <td>Published work on Gaussian-process function approximation for reinforcement learning at <strong>NLDL 2025</strong>. </td>
       </tr>
     </tbody>
   </table>
