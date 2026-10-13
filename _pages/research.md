@@ -64,7 +64,7 @@ nav_order: 1
   <h3>Continual Learning and Optimization</h3>
 
   <p>My MSc thesis at the University of Groningen focuses on <strong>optimization-based continual learning</strong> and is supervised by <a href="https://gmvandeven.github.io">Gido van de Ven</a> and <a href="https://www.linkedin.com/in/matthia-sabatelli-70370b93/">Matthia Sabatelli</a>.
-    I am designing a new optimization framework based on proximal optimization for continual learning in a variety of scenarios (classification, reinforcement learning, etc.). I am currently in the process of finishing this by the end of the year and hope to share more soon :)
+    I am designing a new curvature-aware optimization framework for continual learning in a variety of scenarios (classification, reinforcement learning, etc.). I am currently in the process of finishing this by the end of the year and hope to share more soon :)
   </p>
 </section>
 
