@@ -18,7 +18,7 @@ latest_posts:
 <div class="row mb-3">
   <div class="col-sm-8" markdown="1">
 
-I am currently a Master's student in Artificial Intelligence at the [University of Groningen](https://www.rug.nl/). My research interests center on how machine-learning systems learn, adapt, and make decisions, with a focus on continual learning, reinforcement learning, probabilistic methods, and mechanistic interpretability. I am interested in the limitations of machine learning methods and how these methods scale and behave as models grow larger.
+I am currently a Master's student in Artificial Intelligence at the [University of Groningen](https://www.rug.nl/). My research interests is broadly about how machine-learning systems learn, adapt, and make decisions, with a focus on continual learning, reinforcement learning, probabilistic methods, and mechanistic interpretability. I am interested in the limitations of machine learning methods and how these methods scale.
 
 Alongside my studies, I was a Research Fellow at [Apart Research](https://apartresearch.com/), where I worked on mechanistic interpretability. I have also been involved with [SAIN Groningen](https://safeainetherlands.org/chapters/groningen), including its discussion groups. I have taught and supervised student projects at the University of Groningen and completed internships in data science and machine learning at [Novigenix](https://novigenix.com/) and [Nuwa Innovation](https://nuwapen.com/).
 
