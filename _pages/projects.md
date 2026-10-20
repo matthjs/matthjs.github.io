@@ -34,7 +34,7 @@ An empirical comparison of Gaussian processes and deep ensembles for uncertainty
 
 - [Architectural Decision Detection](https://gitlab.com/Matthjs/mlops-architectural-decision-detection) — Jira issue classification with an end-to-end ML pipeline.
 - [Sandbox Runner](https://gitlab.com/Matthjs/cloud-computing-sandbox-runner) — Container-based code execution, live logs, and Kubernetes deployment.
-- [Learning Strategies in Leduc Poker](https://github.com/matthjs/marl-leduc-poker/tree/dream-impl) — Comparing CFR and neural DREAM agents through strategy exploitability.
+- [Learning Strategies in Leduc Poker](https://github.com/matthjs/marl-leduc-poker/tree/dream-impl) — CFR and DREAM agents for Leduc poker, evaluated by exploitability.
 - [Image-to-LaTeX for Mathematical Formulas](https://github.com/matthjs/DL-Im2Latex) — Transformer-based recognition of printed and handwritten equations.
 - [Music Recommendation System for Spotify Playlists](https://github.com/matthjs/adv-ml-music-recommendation) · [Paper](https://github.com/matthjs/adv-ml-music-recommendation/blob/main/spotify_rec_paper.pdf) — Hybrid recommendations using SVD and Word2Vec.
 
